@@ -1,0 +1,13 @@
+bexysuttx/Jmemcached_common/protocol/impl/DefaultRequestConverterTest.class
+bexysuttx/Jmemcached_common/protocol/impl/AbstractPackageConverterTest$1.class
+bexysuttx/Jmemcached_common/protocol/model/AbstractPackageTest.class
+bexysuttx/Jmemcached_common/protocol/impl/AbstractPackageConverterTest.class
+bexysuttx/Jmemcached_common/protocol/impl/DefaultResponseConverterTest.class
+bexysuttx/Jmemcached_common/protocol/model/RequestTest.class
+bexysuttx/Jmemcached_common/protocol/model/VersionTest.class
+bexysuttx/Jmemcached_common/protocol/impl/DefaultObjectSerializerTest.class
+bexysuttx/Jmemcached_common/protocol/test/SeriazableFailedClass.class
+bexysuttx/Jmemcached_common/protocol/model/ResponseTest.class
+bexysuttx/Jmemcached_common/protocol/model/CommandTest.class
+bexysuttx/Jmemcached_common/protocol/model/StatusTest.class
+bexysuttx/Jmemcached_common/protocol/model/AbstractPackageTest$1.class

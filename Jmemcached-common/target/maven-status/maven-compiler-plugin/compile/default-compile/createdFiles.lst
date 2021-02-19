@@ -1,0 +1,15 @@
+bexysuttx/Jmemcached_common/jmemcashed/protocol/impl/DefaultObjectSerializer.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/Request.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/ObjectSerializer.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/impl/AbstractPackageConverter.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/AbstractPackage.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/RequestConverter.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/impl/DefaultRequestConverter.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/Version.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/Response.class
+bexysuttx/Jmemcached_common/jmemcashed/exception/JMemCachedException.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/impl/DefaultResponseConverter.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/Command.class
+bexysuttx/Jmemcached_common/jmemcashed/exception/JMemcachedConfigException.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/model/Status.class
+bexysuttx/Jmemcached_common/jmemcashed/protocol/ResponseConverter.class
